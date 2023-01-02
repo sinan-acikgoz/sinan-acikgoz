@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sinan-acikgoz
+- 👀 I’m interested in GIS
+- 🌱 I’m currently learning .NET
